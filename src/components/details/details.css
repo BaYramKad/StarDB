@@ -1,0 +1,8 @@
+.details {
+  display: flex;
+  flex: 0.5;
+}
+
+.details-img {
+  width: 200px;
+}

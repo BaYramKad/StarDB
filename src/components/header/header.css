@@ -1,0 +1,21 @@
+.header {
+  display: flex;
+  justify-content: space-around;
+  padding: 30px 30px;
+  background-color: rgb(15, 14, 14);
+}
+
+.header nav {
+  display: flex;
+  justify-content: space-around;
+  flex-basis: 50%;
+  font-size: 18px;
+  align-items: center;
+}
+
+.header nav > a {
+  padding: 10px 20px;
+}
+.header nav > a:hover {
+  background-color: darkslategray;
+}

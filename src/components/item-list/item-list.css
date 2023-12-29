@@ -1,0 +1,16 @@
+.person-item {
+  display: flex;
+  padding: 10px 20px;
+  background-color: rgba(105, 105, 105, 0.212);
+  flex: 1;
+}
+.person-item:hover {
+  background-color: rgb(31, 31, 31);
+}
+
+.list {
+  display: flex;
+  flex-direction: column;
+  flex: 0.5;
+  row-gap: 5px;
+}
